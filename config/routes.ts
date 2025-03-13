@@ -36,6 +36,18 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	{
+		path: '/quanlynhanvien',
+		name: 'QuanLyNhanVien',
+		component: './QuanLyNhanVien',
+		icon: 'ArrowsAltOutlined',
+	},
+	{
+		path: '/thongke',
+		name: 'ThongKe',
+		component: './ThongKe',
+		icon: 'ArrowsAltOutlined',
+	},
 
 	// DANH MUC HE THONG
 	// {
