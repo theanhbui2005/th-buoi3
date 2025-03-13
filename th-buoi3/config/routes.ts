@@ -54,13 +54,6 @@
 		component: './QuanLyHocTap',
 		icon: 'ArrowsAltOutlined',
 	},
-	{
-		path: '/quanlymonhoc',
-		name: 'QuanLyMonHoc',
-		component: './QuanLyMonHoc',
-		icon: 'ArrowsAltOutlined',
-	},
-
 
 	// DANH MUC HE THONG
 	// {
