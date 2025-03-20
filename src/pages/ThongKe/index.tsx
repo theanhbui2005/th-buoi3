@@ -2,7 +2,7 @@ import React from 'react';
 import { Menu } from 'antd';
 import { useState } from 'react';
 import AppointmentStats from './components/AppointmentStats';
-import RevenueStats from './components/RevenueStats'; // Ensure this file exists at the specified path
+import RevenueStats from './components/RevenueStats'; 
 
 const ThongKe = () => {
     const [current, setCurrent] = useState('appointments');
