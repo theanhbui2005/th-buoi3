@@ -37,6 +37,7 @@
 		icon: 'ArrowsAltOutlined',
 	},
 	{
+<<<<<<< HEAD
 		path: '/quanlynhanvien',
 		name: 'QuanLyNhanVien',
 		component: './QuanLyNhanVien',
@@ -48,6 +49,32 @@
 		component: './ThongKe',
 		icon: 'ArrowsAltOutlined',
 	},
+=======
+		path: '/todolist',
+		name: 'ToDoList',
+		component: './ToDoList',
+		icon: 'ArrowsAltOutlined',
+	},
+	{
+		path: '/ramdomnumber',
+		name: 'RandomNumber',
+		component: './RandomNumber',
+		icon: 'ArrowsAltOutlined',
+	},
+	{
+		path: '/quanlyhoctap',
+		name: 'QuanLyHocTap',
+		component: './QuanLyHocTap',
+		icon: 'ArrowsAltOutlined',
+	},
+	{
+		path: '/quanlymonhoc',
+		name: 'QuanLyMonHoc',
+		component: './QuanLyMonHoc',
+		icon: 'ArrowsAltOutlined',
+	},
+
+>>>>>>> e720ef374a6ec73bb83dc667fd42a5862612dbd9
 
 	// DANH MUC HE THONG
 	// {
